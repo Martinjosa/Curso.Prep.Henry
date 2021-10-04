@@ -1,0 +1,2 @@
+//Los arrays son colecciones de datos, los datos que podemos incluir en un arrays pueden ser de cualquier tipo (cadena de caracteres, numeros, boouleanos, etc).
+podemos imaginar que un array es un tren de carga con sus respectivos vagones y en cada vagon podemos poner el tipo de dato que querramos.
